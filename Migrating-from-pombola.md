@@ -1,6 +1,6 @@
 # Migrating from Pombola
 
-For sites that are currently hosted on the [Pombola](https://github.com/mysociety/pombola) platform this document has some details about how to migrate to the Pombola Simple platform.
+For sites that are currently hosted on the [Pombola](https://github.com/mysociety/pombola) platform this document has some details about how to migrate them to using Jekyll for generating a static version of the site.
 
 ## Extract info pages and blog posts
 
