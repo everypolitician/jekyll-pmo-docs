@@ -1,6 +1,8 @@
 # TheyWorkForYou Documentation
 
-TheyWorkForYou provides a platform and a philosophy for creating Parliamentary Monitoring sites. It's built using data from [EveryPolitician](http://everypolitician.org/).
+TheyWorkForYou is an approach to creating Parliamentary Monitoring sites.
+
+This involves combining data from [EveryPolitician](http://everypolitician.org/) with other site-specific sources, and automatically rebuilding a static site (stored in the `gh-pages` branch of the site’s repo, for deployment to [Github Pages](https://pages.github.com/)) when any of the underlying information changes. Almost all functionality is provided through Jekyll plugins, using Travis to rebuild the site on request.
 
 ## Creating a new site
 
